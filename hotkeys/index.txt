@@ -1,1 +1,33 @@
-hellow
+
+ctrl+c скопировать выделенный текст = ctrl+insert
+ctrl+v вставить скопированый текст
+ctrl+x вырезать текст выделенный
+
+win+shift+S  сделать скриншот выделеной области win 10-11
+
+printscreen целый скриншот экрана
+
+//  текст
+
+/* текст */
+
+<!-- -->
+
+
+git init  
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ixter/sharp.git
+git push -u origin main
+
+
+Dotnet new console  создаёт консольное приложение
+Dotnet run запустить приложение
+
+
+Console.WriteLine("Текст для вывода"); команда выводит текст
+Console.ReadLine(); команда позволяет получить текст который ввел пользователь и поместить его переменную.
+
+Math.abs возвращает абсолютное значение
+Math.sqrt возвращает квадратный корень
