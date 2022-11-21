@@ -10,4 +10,4 @@
  int value2 = rnd.Next(); //Получить очередное случайное число
  int value3 = rnd.Next(); //Получить очередное случайное число
 
- Console.WriteLine(value + "   " + value1 + "   " + value2+ "   " +value3);  //Вывод числа в консоль
+ Console.WriteLine(value + "   " + value1 + "   " + value2+ "   " +value3); //Вывод числа в консоль
